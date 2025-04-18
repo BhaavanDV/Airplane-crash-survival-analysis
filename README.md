@@ -38,5 +38,5 @@ This project includes the following key analyses and visualizations:
 
 ### Clone the repository:
 ```bash
-git clone 
+git clone  https://github.com/BhaavanDV/Airplane-crash-survival-analysis.git
 cd airplane-crash-survival-analysis
