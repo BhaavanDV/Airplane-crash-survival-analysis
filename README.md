@@ -39,6 +39,10 @@ The data is available through public datasets such as the **[Airplane crash and 
 
 Contributions are encouraged! If you would like to improve the analysis, add new features, or optimize the model, feel free to fork the repository and submit pull requests.
 
+
+## GitHub Repository
+You can access the repository here:  https://github.com/BhaavanDV/Airplane-crash-survival-analysis.git
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
