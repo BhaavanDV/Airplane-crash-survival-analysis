@@ -25,7 +25,7 @@ Cabin: The passenger’s cabin number (if available).
 Embarked: Port of embarkation (C = Cherbourg; Q = Queenstown; S = Southampton).
 Survived: Survival status (0 = No, 1 = Yes).
 
-The data is available through public datasets such as the **[Airplane crash anfd fatalitites dataset](Airplane_Crashes_and_Fatalities_Since_1908.csv")**, which can be used as a reference for the analysis.
+The data is available through public datasets such as the **[Airplane crash and fatalitites dataset](Airplane_Crashes_and_Fatalities_Since_1908.csv")**, which can be used as a reference for the analysis.
 
 ## Workflow
 
